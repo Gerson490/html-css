@@ -6,6 +6,7 @@
 body {
     background-image: linear-gradient(to right, #379DE6, #B237E6);
 }
+
 main {
     background-color: rgb(245, 236, 236);
     border-radius: 10px;
@@ -14,14 +15,22 @@ main {
     padding: 10px;
     margin: auto;
 }
+
+.tamanho {
+    width: 320;
+    height: 500px;    
+}
+
 h1 {
     color: #263868;
     text-align: center;
     text-shadow: 1px 1px 2px #263868;
 }
+
 h2 {
     color: #7937E6;
 }
+
 p {
 text-align: justify;
 }
