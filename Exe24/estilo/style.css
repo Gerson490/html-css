@@ -75,6 +75,7 @@ section.imagem > p {
 }
 
 footer {
+    font-size: 12px;
     background-color: black;
     color: white;
     text-align: center;
